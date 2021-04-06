@@ -1,1 +1,1 @@
-# fitoxs-buddy push
+# fitoxs-buddy
